@@ -96,7 +96,7 @@ import os
 # }
 DATABASES = {
     'default': dj_database_url.parse(
-        "postgresql://the_samaj_db_user:AGk5vVKHzmCQM4oQvRPuyQO7CdDSBY8Q@dpg-cvqaajpr0fns73elgpig-a.oregon-postgres.render.com/the_samaj_db"
+        "postgresql://wh_db_samaj_user:EvII08zpwY9TMTotD54s6wijPTN5nSeA@dpg-d086vf49c44c73bjoa8g-a.virginia-postgres.render.com/wh_db_samaj"
     )
 }
 # postgresql://the_samaj_db_user:AGk5vVKHzmCQM4oQvRPuyQO7CdDSBY8Q@dpg-cvqaajpr0fns73elgpig-a.oregon-postgres.render.com/the_samaj_db
